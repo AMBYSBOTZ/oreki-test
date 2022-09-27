@@ -32,11 +32,11 @@ global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang 
 global.dana = '00000'
 global.gopay = '0000'
 global.wame = 'wa.me/6285878313791'
-global.email = 'helloiamkizakixd@gmail.com'
+global.email = 'faridahidah679@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
-global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
+global.sc = '-'
+global.packname = '"{\nAuthor: XIAO SAN"\n"Bot Number: 6285798267620"\n"Bot Name: Chitanda - MD"\n"Instagram: @granger ambys"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
@@ -60,8 +60,8 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Unlimited",
-    free: 30,
-    monayawal: 1000
+    free: 100,
+    monayawal: 10000
 }
    global.rpg = {
    darahawal: 100,
