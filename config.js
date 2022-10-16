@@ -12,7 +12,7 @@ global.autoReadAll = true
 // Ganti Sewajarnya
 global.owner = ['6285798267620']
 global.pengguna = 'AMBYSB TITLED'
-global.premium = []
+global.premium = ['6285798267620']
 global.author = 'XIAO SAN'
 global.pemilik = ['6285798267620'] 
 global.ownernomer = '6285798267620'
@@ -35,8 +35,8 @@ global.wame = 'wa.me/6285798267620'
 global.email = 'faridahidah679@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
-global.sc = '-'
-global.packname = '"{\nAuthor: XIAO SAN"\n"Bot Number: 6285798267620"\n"Bot Name: Chitanda - MD"\n"Instagram: @granger ambys"\n}' 
+global.sc = 'FOLLOW IG GUA BIAR SEMANGAT NGEBOTNYA https://instagram.com/granger_ambys?igshid=YmMyMTA2M2Y='
+global.packname = '"{\nAuthor: XIAO SAN"\n"Bot Number: 6285798267620"\n"Bot Name: Chitanda - MD"\n"Instagram: https://instagram.com/granger_ambys?igshid=YmMyMTA2M2Y="\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
